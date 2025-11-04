@@ -18,9 +18,16 @@ Repository ini berisi **panduan komprehensif dan mendalam** tentang implementasi
 ## 📚 Struktur Dokumentasi
 
 ### 📄 Dokumen Utama
+
+#### Versi Utama (Markdown)
 - **[Panduan Komprehensif](panduan_komprehensif_ai_multi_agent_metagpt.md)** - Dokumentasi lengkap 1800+ baris
-- **[Format PDF](panduan_komprehensif_ai_multi_agent_metagpt.pdf)** - Versi cetak dan presentasi
-- **[Format DOCX](panduan_komprehensif_ai_multi_agent_metagpt.docx)** - Versi editable
+
+#### Versi Alternatif
+- **[Panduan Komprehensif (Format DOCX - Dikonversi)](panduan_komprehensif_ai_multi_agent_metagpt_converted.md)** - Konten dari file DOCX yang sudah dikonversi ke markdown untuk akses yang lebih baik
+
+- **[Panduan Komprehensif (Format PDF)](panduan_komprehensif_ai_multi_agent_metagpt.pdf)** - Versi PDF asli (tersedia terpisah - ukuran 523KB)
+
+**📝 Catatan:** File PDF dan DOCX asli tidak dapat diupload langsung ke GitHub karena batasan ukuran. Konten lengkap tersedia dalam format markdown yang lebih mudah diakses dan kompatibel dengan GitHub. File markdown converted (`panduan_komprehensif_ai_multi_agent_metagpt_converted.md`) berisi semua konten dari file DOCX dalam format yang lebih baik.
 
 ### 🔍 Dokumentasi Spesialis
 
@@ -48,7 +55,7 @@ Repository ini berisi **panduan komprehensif dan mendalam** tentang implementasi
 
 #### ⚖️ Framework Comparison
 - **[Multi-Agent Frameworks Comparison](docs/comparison/multi_agent_frameworks_comparison.md)**
-  - Comparative analysis 7 frameworks
+  - Comparative analysis 8 frameworks
   - Feature matrix
   - Use case recommendations
   - Performance benchmarks
